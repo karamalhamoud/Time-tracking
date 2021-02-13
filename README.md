@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://raw.githubusercontent.com/karamalhamoud/Time-tracking/master/time.png" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/karamalhamoud/Time-tracking/master/time.png" alt="Markdownify" width="100"></a>
   <br>
   Time-tracking Tool
   <br>
