@@ -6,4 +6,4 @@
   <br>
 </h1>
 
-<h4 align="center">Time tracking is a tool that allows you to record the work done by employees for payroll, billing, or operations. In other words, it is a tool used to show the time spent on given tasks, which helps automate the invoice or payrolls.</h4>
+<h4 align="center">Time tracking is a tool that allows you to record the work done by employees for payroll, billing or operations. In other words, it is a tool that can be used to show the time spent on specific tasks, which helps automate invoicing or payroll.</h4>
